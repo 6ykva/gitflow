@@ -1,4 +1,9 @@
 def up(user_input):
+    """
+    Перевод в заглавные буквы
+    :param user_input:
+    :return:
+    """
     a = ""
     return a.upper()
 
