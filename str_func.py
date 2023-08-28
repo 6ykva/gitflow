@@ -4,8 +4,8 @@ def up(user_input):
     :param user_input:
     :return:
     """
-    a = ""
-    return a.upper()
+    lst = ""
+    return lst.upper()
 
 def title_up(up):
     """
